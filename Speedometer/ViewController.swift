@@ -108,7 +108,7 @@ extension ViewController: SPDLocationSpeedCheckerDelegate {
 
 extension UIColor {
     
-    static let speedometerRed = UIColor(red: 255/255, green: 82/255, blue: 0/255, alpha: 1)
+    static let speedometerRed = UIColor(red: 0/255, green: 255/255, blue: 0/255, alpha: 1)
     static let speedometerBlue = UIColor(red: 0/255, green: 0/255, blue: 128/255, alpha: 1)
 }
 
